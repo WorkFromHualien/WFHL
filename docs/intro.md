@@ -8,10 +8,10 @@ sidebar_position: 1
 
 ## Getting Started
 
+- [Travel to Hualien](/docs/travel)
+- [Accommodation in Hualien](/docs/accommodation)
 
 ### What you'll need
 
-- [Travel to Hualien](/docs/travel)
-- [Accommodation in Hualien](/docs/accommodation)
 - [Activities](/docs/category/activities)
 - [Events](/docs/activities/events)
