@@ -83,7 +83,7 @@ const config = {
             // sidebarId: 'tutorialSidebar',
             to: '/docs/accommodation',
             position: 'left',
-            label: 'Accommodation',
+            label: 'Accommodations',
           },
           {
             to: '/docs/category/activities',
