@@ -11,7 +11,7 @@ sidebar_position: 1
 
 ### What you'll need
 
-- [Travel to Hualien](./travel)
-- [Accommodation in Hualien](./accommodation)
-- [Activities](./activities)
-- [Events](./events)
+- [Travel to Hualien](/docs/travel)
+- [Accommodation in Hualien](/docs/accommodation)
+- [Activities](/docs/category/activities)
+- [Events](/docs/activities/events)

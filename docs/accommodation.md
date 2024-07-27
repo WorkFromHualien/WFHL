@@ -1,3 +1,5 @@
+# Accommodations
+
 A curated list of accommodation options, including co-living spaces, hostels, and apartments.
 
 Filters for budget, amenities, and location.
