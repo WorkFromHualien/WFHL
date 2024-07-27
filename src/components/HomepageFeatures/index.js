@@ -8,10 +8,10 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Reliable high-speed internet access;
-        A variety of co-working spaces and cafes;
-        Convenient shopping and dining options;
-        Affordable accommodation choices.
+        🚀 Reliable high-speed internet access,
+        ☕ A variety of co-working spaces and cafes;<br/>
+        🍽️ Convenient shopping and dining options;<br/>
+        🛌 Affordable accommodation choices.
       </>
     ),
   },
@@ -20,8 +20,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Proximity to world-class natural attractions like Taroko Gorge;
-        Abundant opportunities for hiking, biking, surfing, and other outdoor activities.
+        Proximity to ⛰️ world-class natural attractions like Taroko Gorge;<br/>
+        😎 Abundant opportunities for hiking, biking, surfing, and other outdoor activities.
       </>
     ),
   },
@@ -30,7 +30,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Indigenous tribes and immigrant communities.
+        🪶 Indigenous tribes and immigrant communities.
       </>
     ),
   },

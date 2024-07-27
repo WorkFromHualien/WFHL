@@ -1,20 +1,19 @@
 ---
 slug: welcome
-title: Welcome
+title: Welcome From Hualien
 # authors: [slorber, yangshun]
 tags: [todo]
 ---
 
-Welcome to the `Work from Hualien` initiative. Behind this site are people who living in hualien as digital normads, local workers and business owners, and wanna bring you to visit this lovely place.
+Welcome to the `Work from Hualien (WFHL)` initiative. Behind this site are people who living in hualien as digital normads, local workers and business owners. We wanna share our passion and help you live and work in this lovely place.
 
 ## What we'll provide:
+- Multilingual content to attract a wider audience.
 - High-quality images and videos showcasing the beauty of Hualien.
-- Detailed guides on popular activities and attractions.
+- Share popular activities and attractions.
 - Interviews with local digital nomads and business owners.
 - Practical tips on living and working in Hualien.
 - Regularly updated events calendar.
-- Multilingual content to attract a wider audience.
-- A strong call to action encouraging visitors to book their trip.
 
 ## Key Selling Points of Hualien:
   - Unique blend of urban convenience and natural beauty.

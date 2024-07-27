@@ -85,12 +85,17 @@ const config = {
             position: 'left',
             label: 'Accommodation',
           },
-          {to: '/blog', label: 'Activities', position: 'left'},
           {
-            href: 'https://github.com/WorkFromHualien/WFHL/issues',
-            label: 'Contact Us',
-            position: 'right',
+            to: '/docs/category/activities',
+            position: 'left',
+            label: 'Activities',
           },
+          {to: '/blog/welcome', label: 'About Us', position: 'right'},
+          // {
+          //   href: 'https://github.com/WorkFromHualien/WFHL/issues',
+          //   label: 'Contact Us',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
