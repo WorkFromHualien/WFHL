@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome From Hualien
 # authors: [slorber, yangshun]
-tags: [todo]
+tags: [pitch]
 ---
 
 ![](./work-from-outdoor.jpg)
