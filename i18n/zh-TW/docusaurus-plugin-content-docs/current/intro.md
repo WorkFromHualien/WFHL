@@ -15,5 +15,5 @@ sidebar_position: 1
 
 ### 你會需要的資訊
 
-- [探索活動](/docs/category/activities)
+- [探索週邊活動](/docs/category/activities)
 - [近期活動](/docs/activities/events)
