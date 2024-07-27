@@ -5,6 +5,8 @@ title: Welcome From Hualien
 tags: [todo]
 ---
 
+![](./work-from-outdoor.jpg)
+
 Welcome to the `Work from Hualien (WFHL)` initiative. Behind this site are people who living in hualien as digital normads, local workers and business owners. We wanna share our passion and help you live and work in this lovely place.
 
 ## What we'll provide:
