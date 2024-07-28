@@ -4,33 +4,55 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+/* :root {
+  --ifm-color-primary: #00A99D;
+  --ifm-color-primary-dark: #009890;
+  --ifm-color-primary-darker: #008F88;
+  --ifm-color-primary-darkest: #007670;
+  --ifm-color-primary-light: #00BAAA;
+  --ifm-color-primary-lighter: #00C3B2;
+  --ifm-color-primary-lightest: #00DBCA;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #7FCECB;
+  --ifm-color-primary-dark: #68C4C0;
+  --ifm-color-primary-darker: #5EBFBB;
+  --ifm-color-primary-darkest: #41B0AB;
+  --ifm-color-primary-light: #96D8D6;
+  --ifm-color-primary-lighter: #A0DDDB;
+  --ifm-color-primary-lightest: #C6EAE9;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+} */
+
+:root {
+  --ifm-color-primary: #4F81BD;
+  --ifm-color-primary-dark: #3D73B0;
+  --ifm-color-primary-darker: #396CA6;
+  --ifm-color-primary-darkest: #2F5989;
+  --ifm-color-primary-light: #6590C5;
+  --ifm-color-primary-lighter: #7098C9;
+  --ifm-color-primary-lightest: #8EADD5;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #6590C5;
+  --ifm-color-primary-dark: #4F81BD;
+  --ifm-color-primary-darker: #457AB8;
+  --ifm-color-primary-darkest: #396CA6;
+  --ifm-color-primary-light: #7B9FCD;
+  --ifm-color-primary-lighter: #86A7D1;
+  --ifm-color-primary-lightest: #A7BFE0;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
 .youtube-video {
   aspect-ratio: 16 / 9;
   width: 100%;
+  height: auto;
   max-width: 560px;
 }

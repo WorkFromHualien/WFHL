@@ -69,7 +69,7 @@ const config = {
         title: 'WFHL',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.jpeg',
         },
         items: [
           {
