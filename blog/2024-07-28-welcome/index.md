@@ -25,19 +25,19 @@ Welcome to the `Work from Hualien (WFHL)` initiative. Behind this site are peopl
   - Excellent quality of life.
 
 ## Things to Do:
-Explore Nature: Hiking, biking, surfing, kayaking, and more.
-Cultural Immersion: Traditional dance performances, language classes, and indigenous food experiences.
-City Life: Cafes, restaurants, shopping, and nightlife.
+- Explore Nature: Hiking, biking, surfing, kayaking, and more.
+- Cultural Immersion: Traditional dance performances, language classes, and indigenous food experiences.
+- City Life: Cafes, restaurants, shopping, and nightlife.
 
 ## Where to Stay:
-A curated list of accommodation options, including co-living spaces, hostels, and apartments.
-Filters for budget, amenities, and location.
-Practical Information:
-Getting Around: Information on public transportation, car rentals, and bike rentals.
-Visa Information: Guidelines for digital nomads wishing to stay long-term.
-Safety and Health: Tips on staying safe and healthy in Hualien.
+- A curated list of accommodation options, including co-living spaces, hostels, and apartments.
+  - Filters for budget, amenities, and location.
+
+## Practical Information:
+- Getting Around: Information on public transportation, car rentals, and bike rentals.
+- Visa Information: Guidelines for digital nomads wishing to stay long-term.
+- Safety and Health: Tips on staying safe and healthy in Hualien.
 
 ## Community:
-A blog featuring stories from other digital nomads living in Hualien.
-A forum or social media group for connecting with the local community.
-Content Suggestions:
+- A blog featuring stories from other digital nomads living in Hualien.
+- A social media group for connecting with the local community.
