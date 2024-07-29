@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Work From Hualien',
-  tagline: 'Digital Normad in a city, around with Mountain, River and Sea',
+  tagline: 'Digital Normad with Mountain, River and Sea',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
