@@ -68,7 +68,7 @@ const config = {
       navbar: {
         title: 'WFHL',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Work from Hualien',
           src: 'img/logo.jpeg',
         },
         items: [
@@ -120,10 +120,6 @@ const config = {
               {
                 label: '花蓮 GDG (LINE)',
                 href: 'https://line.me/R/ti/g/x1_CuRV4ZC',
-              },
-              {
-                label: '窩二樓（FB）',
-                href: 'https://www.facebook.com/WorldInntw/',
               },
               // {
               //   label: 'Twitter',
