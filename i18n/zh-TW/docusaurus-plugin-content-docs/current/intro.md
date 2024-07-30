@@ -13,7 +13,14 @@ sidebar_position: 1
 - [如何到花蓮](/docs/travel)
 - [如何住花蓮](/docs/accommodation)
 
-### 你會需要的資訊
+## 你會需要的資訊
 
 - [探索週邊活動](/docs/category/activities)
 - [近期活動](/docs/activities/events)
+
+----
+
+## 參考資料
+
+- [Life in Hualien, Taiwan](https://oia.tcu.edu.tw/?page_id=583) by Tzu Chi University
+- [Living in Hualien](https://taiwan-etaprogram.org/living-hl)

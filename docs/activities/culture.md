@@ -1,6 +1,8 @@
 # Culturals
 
-- Cultural Immersion: Traditional dance performances, language classes, and indigenous food experiences.
+Cultural Immersion: Traditional dance performances, language classes, and indigenous food experiences.
+
+- [Splendid hualien](https://tour-hualien.hl.gov.tw/en/TourList.aspx?n=169&sms=12369)
 
 ## Historical
 
