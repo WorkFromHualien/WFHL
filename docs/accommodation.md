@@ -6,7 +6,7 @@ Filters for budget, amenities, and location.
 
 ## Short term stay
 
-- [World Inn](https://hotels.cloudbeds.com/reservation/JBElO4)
+- [World Inn](https://www.hostelworld.com/pwa/wds/hosteldetails.php/World-Inn/Hualien/290164) (🥇2024 Hoscars winner)
 - [Airbnb](https://www.airbnb.com.tw/hualien-city-taiwan/stays)
 - [Booking.com](https://www.booking.com/searchresults.zh-tw.html?ss=Hualien+City%2C+Hualien+County%2C+Taiwan)
 
