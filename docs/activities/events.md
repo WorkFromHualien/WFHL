@@ -4,8 +4,8 @@
 
 ## Jul
 
-- [知卡宣水上樂園](https://taiwantour.net/hualien-attractions-play-water/) 7/6~8/26
-- [紅面鴨放暑假](https://www.erv-nsa.gov.tw/zh-tw/event/calendardetail/6494) 7/13~08/11
+- [Cikasuan Water Park (知卡宣水上樂園)](https://taiwantour.net/hualien-attractions-play-water/) 7/6~8/26
+- [Summer Vacation Fun with the Red Face Duck (紅面鴨放暑假)](https://www.erv-nsa.gov.tw/zh-tw/event/calendardetail/6494) 7/13~08/11
 
 ## Oct
 
