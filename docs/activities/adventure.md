@@ -10,4 +10,9 @@
 - [Rafting](https://tour-hualien.hl.gov.tw/en/TourContent.aspx?n=167&s=3406)
 - SUP
 
+### Marathon / Trithon
+
+- https://running.biji.co/?q=competition&act=list_item
+- https://bao-ming.com/eb/index
+
 ## Adventure companies
