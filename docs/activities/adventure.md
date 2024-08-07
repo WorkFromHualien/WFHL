@@ -1,5 +1,7 @@
 # Adventures
 
+Can find variety of advantures and tours on [kkday](https://www.kkday.com/en-us/city/hualien) and [Klook](https://www.klook.com/city/20-hualien-things-to-do/?spm=Home.SearchSuggest_LIST&clickId=01f5dc400d)
+
 ### Biking 🚲
 
 - [Hualien Bike trails](https://hlbts.tw/)
